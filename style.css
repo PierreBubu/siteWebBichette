@@ -1,0 +1,20 @@
+body {
+	  background-color: #F0F2F0;
+	}
+
+#Menu, #Article, #Footer, #BannerAbout  {
+    background-color: white;
+}
+
+#Title {
+    text-align: center;
+}
+
+#Article  {
+    max-width: 960px;
+    margin-left: 10% ;
+    margin-right: 30%;
+}
+
+#BannerImage {
+}
